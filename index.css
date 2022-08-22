@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'spot_monobold';
-    src: url('spot_mono_bold-webfont.woff2') format('woff2'),
+    src: url('Fonts/spot_mono_bold-webfont.woff2') format('woff2'),
          url('spot_mono_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'spot_monolight';
-    src: url('spot_mono_light-webfont.woff2') format('woff2'),
-         url('spot_mono_light-webfont.woff') format('woff');
+    src: url('Fonts/spot_mono_light-webfont.woff2') format('woff2'),
+         url('Fonts/spot_mono_light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'spot_monomedium';
-    src: url('spot_mono_medium-webfont.woff2') format('woff2'),
-         url('spot_mono_medium-webfont.woff') format('woff');
+    src: url('Fonts/spot_mono_medium-webfont.woff2') format('woff2'),
+         url('Fonts/spot_mono_medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'spot_monoregular';
-    src: url('spot_mono_regular-webfont.woff2') format('woff2'),
-         url('spot_mono_regular-webfont.woff') format('woff');
+    src: url('Fonts/spot_mono_regular-webfont.woff2') format('woff2'),
+         url('Fonts/spot_mono_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
